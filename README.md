@@ -29,16 +29,18 @@ y teniendo en cuenta la informacion obtenida de la base de datos, se econtró qu
 * Consultas SQL (CRUD) para simular la manipulación de la base de datos
 
 ## BD breast-cancer
-**Class** (object) \
-**age** (object)\
-**menopause** (object)\
-**tumor-size** (object)\
-**inv-nodes** object()\
-**node-caps** (object)\
-**deg-malig** (int)\
-**breast** (object)\
-**breast-quad** (object)\
-**irradiat** (object)\
+### Tipo de datos de cada caracteristica:
+* **Class** (object) \
+* **age** (object)\
+* **menopause** (object)\
+* **tumor-size** (object)\
+* **inv-nodes** object()\
+* **node-caps** (object)\
+* **deg-malig** (int)\
+* **breast** (object)\
+* **breast-quad** (object)\
+* **irradiat** (object)\
+### Caracteristicas: 
 ![Texto alternativo](caracteristicas.png)
 
 ## Conclusiones 
