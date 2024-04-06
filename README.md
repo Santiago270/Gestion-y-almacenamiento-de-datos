@@ -28,7 +28,7 @@ y teniendo en cuenta la informacion obtenida de la base de datos, se econtró qu
 * Creacion de graficos a partir de los datos traidos de la BD
 * Consultas SQL (CRUD) para simular la manipulación de la base de datos
 
-## breast-cancer
+## BD breast-cancer
 **Class** (object) \
 **age** (object)\
 **menopause** (object)\
