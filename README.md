@@ -75,7 +75,7 @@ Tamaño del tumor y edad en un grupo específico:
 
 Los pacientes con tumores de tamaño medio y edades promedio específicas pueden requerir un enfoque de tratamiento adaptado a sus necesidades y características individuales.
 Las terapias combinadas o secuenciales podrían ser más apropiadas para este grupo, teniendo en cuenta la edad y la tolerancia al tratamiento.
-En resumen, al considerar estas características al desarrollar estrategias de tratamiento personalizado, los oncólogos pueden optimizar la efectividad del tratamiento, minimizar los efectos secundarios y mejorar la calidad de vida de los pacientes con cáncer de mama. Es fundamental que estas decisiones se tomen en consulta con un equipo multidisciplinario de profesionales de la salud, que tengan en cuenta la situación clínica única de cada paciente.
+
 
 ## Valor generado para empresas
 
@@ -91,7 +91,6 @@ Consultoría y servicios especializados: Las empresas de consultoría en salud y
 
 Colaboración y asociaciones: El análisis de datos sobre el cáncer de mama podría facilitar la colaboración entre empresas, instituciones académicas y organizaciones de investigación. Esto podría conducir a asociaciones estratégicas para el desarrollo conjunto de terapias, tecnologías y programas de investigación, lo que beneficiaría a todas las partes involucradas y podría acelerar la innovación en el campo del cáncer de mama.
 
-En resumen, el análisis de datos sobre el cáncer de mama no solo tiene implicaciones clínicas significativas, sino que también puede generar oportunidades comerciales en varios sectores, incluida la atención médica, la investigación y el desarrollo de tecnologías médicas.
 
 ## Authors
 
